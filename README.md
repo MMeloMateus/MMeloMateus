@@ -3,7 +3,7 @@
 Estudante de **Análise e Desenvolvimento de Sistemas (FATEC-SP)** e **Estagiário de Análise de Dados no Santander Brasil**.  
 Experiência em **pipelines ELT, análise exploratória e visualização de dados** com **Databricks, Python, SQL (PL/SQL) e Power BI**.
 
----
+
 ## 💻 Tecnologias & Ferramentas
 
 <div style="display: flex; gap: 12px; align-items: center;">
@@ -14,8 +14,6 @@ Experiência em **pipelines ELT, análise exploratória e visualização de dado
 </div>
 
 
----
-
 ## 🛠 Skills principais
 - Python (pandas, numpy, matplotlib, pyarrow)  
 - SQL / PL-SQL
@@ -24,8 +22,6 @@ Experiência em **pipelines ELT, análise exploratória e visualização de dado
 - Power BI (modelagem, DAX, dashboards)  
 - Qualidade e validação de dados
 
-
----
 
 ## 📫 Contato
 <div>
